@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 21, 2017
 
 ### Student Name:  
-(First and Last Name)
+Carly Blakey
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was to edit a weather application by adding additional days and linking our key to our APIXU API. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://carlyanneblake.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API- centric excutes through API calls. 
+2. APIXU API uses json instead of instead of HTTP for returns. 
+3. An API key indentifies a program or code. 
